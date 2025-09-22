@@ -2,8 +2,8 @@
  
  
  
-- 🔭 I’m currently working on completing my Google Data Analytics Certification 
-- 🌱 Always learning — currently diving deeper into digital marketing and SQL.
+- 🔭 I’m currently working on completing my Google Data Analytics Certification. 
+- 🌱 Always learning, currently diving deeper into digital marketing and SQL.
 - 💬 Ask me about data analytics, digital marketing, project management, or building a startup brand.
 - 📫 How to reach me: spham@udel.edu
 
