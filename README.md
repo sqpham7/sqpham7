@@ -7,7 +7,7 @@
 - 💬 Ask me about data analytics, digital marketing, project management, or building a startup brand.
 - 📫 How to reach me: sphamwork007@gmail.com
 
-Outside of work and school, I enjoy raving and exploring music, cooking, baking, and staying active.
+Outside of work and school, I enjoy exploring music, cooking, baking, and staying active.
 
 
 <!--
