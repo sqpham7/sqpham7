@@ -4,7 +4,7 @@
  
 - 🔭 I’m currently working on completing my Google Data Analytics Certification. 
 - 🌱 Always learning, currently diving deeper into digital marketing and SQL.
-- 💬 Ask me about data analytics, digital marketing, project management, or building a startup brand.
+- 💬 I’m interested in data and marketing analytics, with a focus on using insights to improve business decisions for companies.
 - 📫 How to reach me: sphamwork007@gmail.com
 
 Outside of work and school, I enjoy exploring music, cooking, baking, and staying active.
