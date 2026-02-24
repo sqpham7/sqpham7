@@ -2,7 +2,7 @@
  
  
  
-- 🔭 I’m currently working on completing my Google Data Analytics Certification. 
+- 🔭 I’m currently interning at BigCentric Appliances as a Business Operations intern. 
 - 🌱 Always learning, currently diving into analytics within the healthcare industry.
 - 💬 I’m interested in data and marketing analytics, with a focus on using insights to improve business decisions for companies.
 - 📫 How to reach me: sphamwork007@gmail.com
