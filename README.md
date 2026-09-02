@@ -2,7 +2,7 @@
  
  
  
-- 🔭 I’m currently interning at BigCentric Appliances as a Business Operations intern. 
+- 🔭 I’m currently working on getting my Associate Data Analyst in SQL certification from Datacamp.
 - 🌱 Always expanding my knowledge, with a focus on analytics.
 - 💬 I’m interested in data and marketing analytics, with a focus on using insights to improve business decisions for companies.
 - 📫 How to reach me: sphamwork007@gmail.com
